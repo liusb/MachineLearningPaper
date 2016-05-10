@@ -3,6 +3,8 @@
 ## 特征选择
 - [An Introduction to Variable and Feature Selection](http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf)
 - [特征选择方法综述](docs/FeatureSelection/特征选择方法综述.pdf)
+- [Variable Importance Assessment in Regression: Linear Regression versus Random Forest](http://prof.beuth-hochschule.de/fileadmin/user/groemping/downloads/tast_2E2009_2E08199.pdf)
+
 
 ## 分布式机器学习方法
 - MPI gradient aggregation[A Scalable Modular Convex Solver for Regularized Risk Minimization](http://cs.stanford.edu/~quocle/TeoLeSmoVis07.pdf)
