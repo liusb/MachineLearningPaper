@@ -14,3 +14,6 @@
 - Allreduce approaches[A Reliable Effective Terascale Linear Learning System](http://arxiv.org/pdf/1110.4198v3.pdf)
 - Allreduce approaches[1-Bit Stochastic Gradient Descent and its Application to Data-Parallel Distributed Training of Speech DNNs](http://research.microsoft.com/pubs/230137/IS140694.PDF)
 - GPU+MPI approaches[Deep learning with COTS HPC systems](http://www.cs.stanford.edu/~acoates/papers/CoatesHuvalWangWuNgCatanzaro_icml2013.pdf)
+
+## 模型融合方法
+[Ensemble Approaches for Regression: A Survey](https://pdfs.semanticscholar.org/0648/617785024ebe90481532b19cb3fd859a97d6.pdf)
