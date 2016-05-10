@@ -16,4 +16,4 @@
 - GPU+MPI approaches[Deep learning with COTS HPC systems](http://www.cs.stanford.edu/~acoates/papers/CoatesHuvalWangWuNgCatanzaro_icml2013.pdf)
 
 ## 模型融合方法
-[Ensemble Approaches for Regression: A Survey](https://pdfs.semanticscholar.org/0648/617785024ebe90481532b19cb3fd859a97d6.pdf)
+- [Ensemble Approaches for Regression: A Survey](https://pdfs.semanticscholar.org/0648/617785024ebe90481532b19cb3fd859a97d6.pdf)
